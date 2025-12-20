@@ -1,0 +1,6 @@
+name: ParadoxMonitor
+main: com.example.servermonitor.ServerMonitorPlugin
+version: 1.0.0
+api-version: 1.20
+author: Paradox
+description: Server resource monitor with Discord webhook updates
